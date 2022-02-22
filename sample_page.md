@@ -1,6 +1,12 @@
-## This can be your internal website page / project page
+## Hackathon - Worksite Safety Monitoring
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Ensuring a worksite safety thanks to computer vision technology.
+The client, a player in the construction industry is building a worksite monitoring solution to evaluate and mitigate risks on worksites.
+• Build a worker detection model based on annotated data
+• Cluster the images to process each camera independently (prerequisite to draw heatmaps)
+• Build a heatmap for each worksites with density of workers during the day
+• Expose your result and performance on a dashboard with a test dataset
+• Identify additional value that could be brought by the detection mode
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
