@@ -8,9 +8,8 @@ In this project, we elaborate on human activity recognition tracked by wearable 
 ### Models
 we have used three different machine learning algorithms to classify the target variable. For that purpose we have splitted the target into two categories that define whether the human wearing the insole is moving or not. The categories of sitting, standing and no activity were combined to represent no movement and the rest to represent some movement, e.g. walking, mixed walking. 
 
-<img src="har_images/har_1.jpg?raw=true" width="400" height="300"/>
-<img src="har_images/har_2.jpg?raw=true" width="400" height="400"/>
-<img src="har_images/har_3.jpg?raw=true" width="400" height="400"/>
+<img src="har_images/har_1.jpg?raw=true" width="400" height="300"/>  <img src="har_images/har_2.jpg?raw=true" width="400" height="300"/>
+<img src="har_images/har_3.jpg?raw=true" width="400" height="300"/>
 
 For more details see [Jupyter Notecook](https://github.com/Ofir-Ber/HAR/blob/main/HAR.ipynb)
 
