@@ -12,5 +12,7 @@ we have used three different machine learning algorithms to classify the target 
 <img src="har_images/har_3.jpg?raw=true" width="400" height="300"/>
 
 For more details see:
+
 [Jupyter Notebook](https://github.com/Ofir-Ber/HAR/blob/main/HAR.ipynb)
+
 [Repository](https://github.com/Ofir-Ber/HAR)
